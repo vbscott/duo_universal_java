@@ -1,6 +1,6 @@
 # Duo Universal Prompt Java Client
 
-[![Build Status](https://github.com/duosecurity/duo_universal_java/workflows/Java%20CI/badge.svg)](https://github.com/duosecurity/duo_universal_java/actions)
+[![Build Status](https://github.com/duosecurity/duo_universal_java/workflows/Build%20and%20Test%20with%20Maven/badge.svg)](https://github.com/duosecurity/duo_universal_java/actions)
 [![Issues](https://img.shields.io/github/issues/duosecurity/duo_universal_java)](https://github.com/duosecurity/duo_universal_java/issues)
 [![Forks](https://img.shields.io/github/forks/duosecurity/duo_universal_java)](https://github.com/duosecurity/duo_universal_java/network/members)
 [![Stars](https://img.shields.io/github/stars/duosecurity/duo_universal_java)](https://github.com/duosecurity/duo_universal_java/stargazers)
